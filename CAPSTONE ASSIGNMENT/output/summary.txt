@@ -1,0 +1,13 @@
+--- Executive Energy Summary Report ---
+
+1. Total Campus Consumption: 251606.45 kWh
+2. Highest-Consuming Building: **Building_A_Admin** (125473.08 kWh)
+3. Peak Load Event: **286.13 kWh** occurred at 2024-10-24 16:00
+4. Weekly/Daily Trends: Campus-wide daily consumption shows an average change of **0.06%**.
+---------------------------------------
+
+Detailed Building Summaries (mean, min, max, total):
+                    Total_kwh  Mean_kwh  Min_kwh  Max_kwh    Peak_Load_Time
+Building_A_Admin    125473.08    174.27    51.77   286.13  2024-10-24 16:00
+Building_B_Library   75543.84    104.92    40.18   171.09  2024-10-23 15:00
+Building_C_Dorm      50589.53     70.26    28.59   110.63  2024-10-17 13:00

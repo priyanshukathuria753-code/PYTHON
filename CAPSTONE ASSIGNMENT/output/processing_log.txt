@@ -1,0 +1,4 @@
+--- Data Processing Log ---
+SUCCESS: Successfully read Building_A_Admin.csv.
+SUCCESS: Successfully read Building_B_Library.csv.
+SUCCESS: Successfully read Building_C_Dorm.csv.
